@@ -58,3 +58,5 @@ https://developer.android.com/develop/ui/compose/state
 https://developer.android.com/reference/kotlin/androidx/compose/runtime/MutableState
 https://developer.android.com/reference/kotlin/androidx/compose/ui/graphics/Color
 https://developer.android.com/reference/kotlin/androidx/compose/ui/graphics/Brush
+https://developer.android.com/develop/ui/compose/graphics/draw/overview
+https://developer.android.com/develop/ui/compose/state
